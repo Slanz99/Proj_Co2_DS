@@ -29,6 +29,8 @@ the dataset for new cars from 2019 alone weighs more than 1gb) with a little mor
 - a modeling report ; 
 - a final report.
 
+## Data Audit
+[Google Template](https://docs.google.com/spreadsheets/d/19EffSCbW8gdt67DQ4ZDm2azBAgCSZk_XFSyCPIuHPws/edit?usp=sharing)
 
      
 
