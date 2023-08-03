@@ -23,7 +23,7 @@
  values. How are you planning to encode your categorical variables
 
 ## Goals
-[Google Table Template](https://docs.google.com/spreadsheets/d/1BZF56pzSsScHQZjJnM945iCcAKyxm2BqRsv7at-1bqY/edit#gid=0)
+[Google Table Template](https://docs.google.com/spreadsheets/d/19EffSCbW8gdt67DQ4ZDm2azBAgCSZk_XFSyCPIuHPws/edit?usp=sharing)
 
     1. Wrtite initial exploration using the *Google Table Template* 
     2. Identify the most relevant `features`
