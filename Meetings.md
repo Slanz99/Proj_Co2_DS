@@ -1,23 +1,37 @@
-# 07.08.2023 | 11:00 | Team Meeting
-
+# 03.08.2023 | 14:00 | Project Call with Aziz
 ## Agenda
-1. Use of  Colab
-2. task 2023_CO2 Project_Data Audit
-3. My Gihub File
+1. Questions for Aziz 
+
+
+# 07.08.2023 | 11:00 | Team Meeting preparation
+## Agenda
+1. Discuss findings, visualizations and strategie for presentation
+2.  
+
+# 07.08.2023 | 11:00 | Team Meeting
+## Agenda
+1. Use of  Colab ✅
+2. task 2023_CO2 Project_Data Audit ✅
+3. share my Gihub File ✅
 
 ## Notes
-
-- Kaggle Example: ()
+- Kaggle Inspirations:
+    1. [Overview regression techniques](https://www.kaggle.com/code/lykin22/co2-emission-regression-techniques)
+    2. [Great EDA + viz](https://www.kaggle.com/code/drfrank/co2-emission-eda-visualization-machine-learnin#-3.Exploratory-Data-Analysis)
+    3. [+99% Acc](https://www.kaggle.com/code/a7madmostafa/eda-modelling-for-co2-emission-99-acc)
+    
 - Every 4 Years there is a signifcant change in the cars 
-- when 20% of the data are missing we get rid of it
+- **decision for the rule:** "when 20% of the data are missing we get rid of it"
 
 ## next steps
-- split the visualizaton
-- Next meting on wednesday 
+- split the visualizaton (Everyone min 4 vizualisations),graphs, plots
+- Next meting on wednesday 3 pm [click me for Meeting Link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW5pbzQ5aGc1YWdtY3Zxb2k1bDFidm1iZ2ogbGFuei5zdEBt&tmsrc=lanz.st%40gmail.com)
+- Review an Wednesday
 
-## Questions for the next Meeting
+## Questions for the next Project Meeting with Aziz
 
-- 
+>- What data can we do without?
+>- Do we have to use the 2013 and 2014 French Gouverment Data?
 
 
 ---
