@@ -1,11 +1,23 @@
 # 07.08.2023 | 11:00 | Team Meeting
 
 ## Agenda
+1. Use of  Colab
+2. task 2023_CO2 Project_Data Audit
+3. My Gihub File
+
+## Notes
+
+- Kaggle Example: ()
+- Every 4 Years there is a signifcant change in the cars 
+- when 20% of the data are missing we get rid of it
 
 ## next steps
+- split the visualizaton
+- Next meting on wednesday 
 
 ## Questions for the next Meeting
 
+- 
 
 
 ---
