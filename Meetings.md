@@ -1,6 +1,6 @@
 # 03.08.2023 | 14:00 | Project Call with Aziz
 ## Agenda
-1. [Questions for Aziz][Questions for the next Project Meeting with Aziz]
+1. Questions for Aziz
 
 
 # 07.08.2023 | 11:00 | Team Meeting preparation
@@ -28,7 +28,7 @@
 - Next meting on wednesday 3 pm [click me for Meeting Link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW5pbzQ5aGc1YWdtY3Zxb2k1bDFidm1iZ2ogbGFuei5zdEBt&tmsrc=lanz.st%40gmail.com)
 - Review an Wednesday
 
-## [Questions for the next Project Meeting with Aziz]
+## Questions for the next Project Meeting with Aziz
 
 >- What data can we do without?
 >- Do we have to use the 2013 and 2014 French Gouverment Data?
