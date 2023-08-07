@@ -15,7 +15,7 @@
 3. share my Gihub File ✅
 
 ## Notes
-- Kaggle Inspirations:
+- **Kaggle Inspirations:**
     1. [Overview regression techniques](https://www.kaggle.com/code/lykin22/co2-emission-regression-techniques)
     2. [Great EDA + viz](https://www.kaggle.com/code/drfrank/co2-emission-eda-visualization-machine-learnin#-3.Exploratory-Data-Analysis)
     3. [+99% Acc](https://www.kaggle.com/code/a7madmostafa/eda-modelling-for-co2-emission-99-acc)
