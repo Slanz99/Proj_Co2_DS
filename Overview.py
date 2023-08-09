@@ -7,6 +7,8 @@ fg_2013 = pd.read_csv("Projects\Project_CO2_DataScientest\Proj_Co2_DS\Data\cl_JU
                                     sep=";", encoding= 'latin-1')
 fg_2013.info()
 # Create a mapping dictionary for column name translation
+
+EAA_EU = pd.read_csv("https://drive.google.com/file/d/1Xy1wMm_d15Y8mwgecpVLPKmTs9VVkym3/view?usp=sharing")
 column_name_mapping = {
     'Marque': 'Brand',
     'Modèle dossier': 'Model file',
@@ -41,4 +43,8 @@ fg_2013.rename(columns=column_name_mapping, inplace=True)
 
 print(fg_2013.head(10))
 print(fg_2013.describe())
+
+print("EAA U Data Set:\n", EAA_EU.head("https://drive.google.com/file/d/1Xy1wMm_d15Y8mwgecpVLPKmTs9VVkym3/view?usp=sharing"))
+
+
 

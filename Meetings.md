@@ -1,12 +1,38 @@
 # 03.08.2023 | 14:00 | Project Call with Aziz
 ## Agenda
 1. [Questions for Aziz][Questions for the next Project Meeting with Aziz]
-
+2. What are M1, M1G, N1, N1G, N2 in whisker chart
+3. 
 
 # 07.08.2023 | 11:00 | Team Meeting preparation
 ## Agenda
 1. Discuss findings, visualizations and strategie for presentation
 2.  
+
+## Decisions
+- get rid of the columns > 80% missing values
+- **Feature `FT`**
+    - combine Datas ('Ft'):
+        1. Diesel 
+        2. Petrol 
+        3. Electric
+        4. Hybrid
+        5. Liquid (LPG, NG, NG-Biomethan)
+    get rid of:
+        6. HYDROGEN
+        7. UNKNOWN
+
+## Tasks
+### Navid:
+    [] Checking the fuel types and make a descison for reducing
+
+## Code Snippets
+### reduce Dataste with `sample()` ***method***
+```python
+df_sample = df.sample(n=1000, random_state=42)
+df_sample.describe()
+```
+
 
 # 07.08.2023 | 11:00 | Team Meeting
 ## Agenda
