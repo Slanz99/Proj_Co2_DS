@@ -3,7 +3,7 @@
 1. [Questions for Aziz][Questions for the next Project Meeting with Aziz]
 2. What are M1, M1G, N1, N1G, N2 in whisker chart
 3. Concept google colab mount how can we solve the issue with the big data set (for more working on the code instead of waiting)
-    ```
+    ```python
     filename = '/content/drive/MyDrive/DataScientest CO2 Project/data.csv'
     df = pd.read_csv(filename, sep=',', index_col = 0, low_memory=False)
 
