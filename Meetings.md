@@ -41,7 +41,7 @@ df_sample.describe()
 3. share my Gihub File ✅
 
 ## Notes
-- Kaggle Inspirations:
+- **Kaggle Inspirations:**
     1. [Overview regression techniques](https://www.kaggle.com/code/lykin22/co2-emission-regression-techniques)
     2. [Great EDA + viz](https://www.kaggle.com/code/drfrank/co2-emission-eda-visualization-machine-learnin#-3.Exploratory-Data-Analysis)
     3. [+99% Acc](https://www.kaggle.com/code/a7madmostafa/eda-modelling-for-co2-emission-99-acc)
@@ -54,7 +54,7 @@ df_sample.describe()
 - Next meting on wednesday 3 pm [click me for Meeting Link](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=NW5pbzQ5aGc1YWdtY3Zxb2k1bDFidm1iZ2ogbGFuei5zdEBt&tmsrc=lanz.st%40gmail.com)
 - Review an Wednesday
 
-## [Questions for the next Project Meeting with Aziz]
+## Questions for the next Project Meeting with Aziz
 
 >- What data can we do without?
 >- Do we have to use the 2013 and 2014 French Gouverment Data?
