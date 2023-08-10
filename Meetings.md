@@ -1,4 +1,4 @@
-# 03.08.2023 | 14:00 | Project Call with Aziz
+# 10.08.2023 | 14:00 | Project Call with Aziz
 ## Agenda
 1. [Questions for Aziz][Questions for the next Project Meeting with Aziz]
 2. What are M1, M1G, N1, N1G, N2 in whisker chart
