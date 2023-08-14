@@ -1,7 +1,7 @@
-# 10.08.2023 | 14:00 | Project Call with Aziz
+# 14.08.2023 | 14:00 | Project Call with Aziz
 ## Agenda
 1. [Questions for Aziz][Questions for the next Project Meeting with Aziz]
-2. What are M1, M1G, N1, N1G, N2 in whisker chart
+2. ✅ What are M1, M1G, N1, N1G, N2 in whisker chart (Andrew fund the URL: [LINK here](https://alternative-fuels-observatory.ec.europa.eu/general-information/vehicle-types)
 3. Concept google colab mount how can we solve the issue with the big data set (for more working on the code instead of waiting)
     ```python
     filename = '/content/drive/MyDrive/DataScientest CO2 Project/data.csv'
@@ -9,7 +9,26 @@
 
     display(df.head(15))
     ```
-5. 
+4. 
+
+## Reccomention from Aziz
+- Use the old Datasets as well for bias reasons
+- make some regression
+- 
+
+### Missing values ec_(cm3) and mt
+- Recommendation drop the rows
+- 
+
+## next steps
+
+- decide to use which catagorical columns we want to use
+- 
+
+## Goals for the week (14.08 - 22.08 2pm)
+1. finish the preprocessing for the missing values
+1. create a first model (regression)
+1. if you have time, try the GridSearch CV
 
 # 07.08.2023 | 11:00 | Team Meeting preparation
 ## Agenda
